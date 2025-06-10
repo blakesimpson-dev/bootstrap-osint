@@ -1,0 +1,5 @@
+# Set default behavior for text files
+* text=auto
+
+# Mark shell scripts as executable text
+*.sh text eol=lf
