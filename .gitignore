@@ -1,16 +1,2 @@
-# Ignore Python virtual environments
-.venvs/
-venv/
-__pycache__/
-
-# Ignore OSINT tools directory
-osint-tools/
-
-# Ignore editor files
-*.swp
-*~
-.vscode/
-.idea/
-
-# Ignore logs
 *.log
+.DS_Store
